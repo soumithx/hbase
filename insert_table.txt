@@ -1,0 +1,6 @@
+put 'customerx','soumith','address:city','milpitas'
+put 'customerx','soumith','address:state','california'
+put 'customerx','soumith','address:street','milmont dr'
+put 'customerx','soumith','order:id','1'
+put 'customerx','soumith','order:price','$20'
+
