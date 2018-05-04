@@ -1,0 +1,9 @@
+> scan 'customerx'
+
+ ROW                                         COLUMN+CELL                                                                                                                 
+ soumith                                    column=address:city, timestamp=1525453261301, value=milpitas                                                                
+ soumith                                    column=address:state, timestamp=1525453261359, value=california                                                             
+ soumith                                    column=address:street, timestamp=1525453261406, value=milmont dr                                                            
+ soumith                                    column=order:id, timestamp=1525453261434, value=1                                                                           
+ soumith                                    column=order:price, timestamp=1525453261467, value=$20                                                                      
+1 row(s) in 0.2510 seconds
